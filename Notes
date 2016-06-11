@@ -1,0 +1,21 @@
+Tasks:
+  Graphiken:
+    Alex
+    Hannah
+  Gameplay/Code/Engine(BGE)/Watafaks:
+    Alex
+    Johannes
+    Mareike
+  Sound:
+    Sebastien
+    Melaniea
+  Prasentation:
+    Sebastien
+
+Github-commands (von den Cheat-sheet):
+  $ git pull  --  Alle Dateien vom Server auf den eigenen Rechner laden. Erst danach kann man bearbeiten.
+  $ git status  --  Zeigt den Status (also neu, bearbeitet, hinzugefugt usw.) von Dateien.
+  $ git add <>  --  Dateien zu Commit-liste hinzufugen (siehe $ git commit). Mit "-A" fugt man alle Dateien, oder man kann auch eine einzige Datei angeben.
+  $ git commit -m "<>"  --  Dateien von den eigenen Rechner auf den Github-ordner laden. Man kann auch eine Nachricht in den <>'s geben.
+  $ git push  --  Sicherstellen, dass der Commit geht. Einfach nach den Commit ausfuhren, ich habe auch keine Ahnung, was damit sein soll.
+  $ git log  --  Ubersicht aller Commits.
