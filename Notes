@@ -12,14 +12,5 @@ Tasks:
     Melaniea
   Prasentation:
     Sebastien
-    
-Probleme:
-  - Unity geht nicht auf Linux \ldots
 
-Github-commands (von den Cheat-sheet, gelten nur fur Konsolen-version von GitHub):
-  $ git pull  --  Alle Dateien vom Server auf den eigenen Rechner laden. Erst danach kann man bearbeiten.
-  $ git status  --  Zeigt den Status (also neu, bearbeitet, hinzugefugt usw.) von Dateien.
-  $ git add <>  --  Dateien zu Commit-liste hinzufugen (siehe $ git commit). Mit "-A" fugt man alle Dateien, oder man kann auch eine einzige Datei angeben.
-  $ git commit -m "<>"  --  Dateien von den eigenen Rechner auf den Github-ordner laden. Man kann auch eine Nachricht in den <>'s geben.
-  $ git push  --  Sicherstellen, dass der Commit geht. Einfach nach den Commit ausfuhren, ich habe auch keine Ahnung, was damit sein soll.
-  $ git log  --  Ubersicht aller Commits.
+- Bewegt sich der Level oder der Spieler? Denn Level ist praktischer . . .
