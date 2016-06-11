@@ -11,6 +11,9 @@ Tasks:
     Melaniea
   Prasentation:
     Sebastien
+    
+Probleme:
+  - Unity geht nicht auf Linux \ldots
 
 Github-commands (von den Cheat-sheet):
   $ git pull  --  Alle Dateien vom Server auf den eigenen Rechner laden. Erst danach kann man bearbeiten.
