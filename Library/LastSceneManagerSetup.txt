@@ -1,1 +1,5 @@
-sceneSetups: []
+sceneSetups:
+- path: C:/Users/Blickwechsel/Documents/NoGame NoGlide/Assets/BretwaldaGames/San Francisco
+    House/Scenes/SanFranciscoHouse.unity
+  isLoaded: 1
+  isActive: 1
